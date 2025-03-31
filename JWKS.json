@@ -1,0 +1,14 @@
+{
+  "Keys": [
+   {
+    "kty": "RSA",
+    "alg": "RSA256",
+    "key_ops": [ "sign" ],
+    "kid": "uds-plus",
+    "use": "sig",
+    "e": "AQAB",
+    "n": "f4_Vk4XWYUZz8e_YPl6PO1uQQoSco4dXB-he98qInBcF8ps9hTCfRKaQ50RZhfQluacVyn3nUaOon_xmrsfUib8853BC9AoGcJVwXe3qO5-CpF_m_1XjicUimmfw9yfSV8F5IpNQZPVLmSL-_fMA7UT0S298k7snvVQ_egFIaHlZHnwq8RJSnNZQ7Rvnf91PFierBPY0EUgLMq5PLtikdqRUigYL-gPKk7dS2EN9CMSkdpfd1W9ercGUnebKvuOkGAS4YK_XssYSkYjiIRgj_xsMmPbZ8tWAXM04h6zjOvTZOn2PAG3Kczdra_QQqQPlxmbgwBQH-MTzJn4XLC6uCw",
+    "x5c": []
+    }
+  ]
+}
